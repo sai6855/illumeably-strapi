@@ -4,7 +4,8 @@
   "info": {
     "singularName": "youtube-premier-url",
     "pluralName": "youtube-premier-urls",
-    "displayName": "youtube-premier-url"
+    "displayName": "youtube-premier-url",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,6 +14,9 @@
   "attributes": {
     "url": {
       "type": "string"
+    },
+    "premier_time": {
+      "type": "datetime"
     }
   }
 }
