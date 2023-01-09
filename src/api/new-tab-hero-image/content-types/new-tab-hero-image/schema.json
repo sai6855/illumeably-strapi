@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "new_tab_hero_images",
+  "info": {
+    "singularName": "new-tab-hero-image",
+    "pluralName": "new-tab-hero-images",
+    "displayName": "new-tab-hero-image",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    }
+  }
+}

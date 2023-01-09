@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "youtube_premier_urls",
+  "info": {
+    "singularName": "youtube-premier-url",
+    "pluralName": "youtube-premier-urls",
+    "displayName": "youtube-premier-url"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}
